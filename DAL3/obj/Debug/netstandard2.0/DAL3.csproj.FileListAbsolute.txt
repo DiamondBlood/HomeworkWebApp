@@ -1,0 +1,10 @@
+C:\Users\almaz\source\repos\DAL3\bin\Debug\netstandard2.0\DAL3.deps.json
+C:\Users\almaz\source\repos\DAL3\bin\Debug\netstandard2.0\DAL3.dll
+C:\Users\almaz\source\repos\DAL3\bin\Debug\netstandard2.0\DAL3.pdb
+C:\Users\almaz\source\repos\DAL3\obj\Debug\netstandard2.0\DAL3.csproj.AssemblyReference.cache
+C:\Users\almaz\source\repos\DAL3\obj\Debug\netstandard2.0\DAL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almaz\source\repos\DAL3\obj\Debug\netstandard2.0\DAL3.AssemblyInfoInputs.cache
+C:\Users\almaz\source\repos\DAL3\obj\Debug\netstandard2.0\DAL3.AssemblyInfo.cs
+C:\Users\almaz\source\repos\DAL3\obj\Debug\netstandard2.0\DAL3.csproj.CoreCompileInputs.cache
+C:\Users\almaz\source\repos\DAL3\obj\Debug\netstandard2.0\DAL3.dll
+C:\Users\almaz\source\repos\DAL3\obj\Debug\netstandard2.0\DAL3.pdb

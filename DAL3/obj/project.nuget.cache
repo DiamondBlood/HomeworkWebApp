@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "583h3YUDoTnPcaXaMz4Tets48xLBUfouKKclpoHYZnB0fFryh5f9eBsrEeX/qMP6PCUYg16FXcrTY5TMcyhM7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\almaz\\source\\repos\\DAL3\\DAL3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almaz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\almaz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
